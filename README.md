@@ -18,21 +18,33 @@ Soy **Desarrollo de Software (ADSO) en el SENA**, apasionado por la tecnología,
 
 Convertirme en un desarrollador de software capaz de transformar ideas en proyectos reales, seguir aprendiendo y crear tecnología que marque una diferencia.
 
+
 ## 🛠️ Tecnologías que utilizo
 
-<p align="left">
+ <div align="center">
+<p>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP"/>
   </a>
 </p>
 
-**Tecnologías:** HTML · CSS · PHP
+<p>
+  <strong>HTML5</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>CSS3</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>PHP</strong>
+</p>
+
+</div> 
 
 
 ### ¡Gracias por visitar mi perfil! ✨
