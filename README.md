@@ -6,13 +6,19 @@
 
 <br>
 
-Soy **Desarrollo de Software (ADSO) en el SENA**, apasionado por la tecnología, la programación y la creación de proyectos que puedan aportar algo positivo a la sociedad.
+Soy Jesús Quintero, apasionado por la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas, explorar diferentes herramientas y convertir ideas en proyectos que puedan ser útiles para las personas.
+
+Actualmente, estoy fortaleciendo mis conocimientos en desarrollo web, trabajando con tecnologías como HTML, CSS y PHP. Me interesa tanto la parte visual de las aplicaciones como la lógica que hay detrás de ellas, buscando crear soluciones funcionales, intuitivas y bien estructuradas.
+
+Me considero una persona curiosa, perseverante y con ganas de mejorar constantemente. Disfruto enfrentar nuevos retos, investigar cómo funcionan las cosas y encontrar diferentes maneras de resolver problemas.
+
+Mi objetivo es seguir creciendo como desarrollador, adquirir experiencia mediante proyectos reales y construir soluciones tecnológicas que aporten valor y marquen una diferencia.
 
 💻 **Sobre mí**
-- 🚀 Me gusta aprender cosas nuevas y explorar diferentes tecnologías.
-- 🧠 Disfruto resolver problemas y buscar soluciones creativas.
-- 🛠️ Me interesa desarrollar aplicaciones y sitios web que sean útiles e innovadores.
-- 🌱 Siempre estoy buscando oportunidades para mejorar mis habilidades y crecer como desarrollador.
+- Me gusta aprender cosas nuevas y explorar diferentes tecnologías.
+- Disfruto resolver problemas y buscar soluciones creativas.
+- Me interesa desarrollar aplicaciones y sitios web que sean útiles e innovadores.
+- Siempre estoy buscando oportunidades para mejorar mis habilidades y crecer como desarrollador.
 
 🎯 **Mi objetivo**
 
@@ -46,7 +52,10 @@ Convertirme en un desarrollador de software capaz de transformar ideas en proyec
 
 </div> 
 
+## 📫 Contacto
+
+- **LinkedIn:** [Jesus Quintero](https://www.linkedin.com/in/jesus-quintero-969b54447/)
+- **Correo electrónico:** [jesuxxquintero@gmail.com](jesuxxquintero@gmail.com)
+- **whatsapp:** [+57 333 7022973](Wa.me/+573337022973)
 
 ### ¡Gracias por visitar mi perfil! ✨
-
-
