@@ -6,6 +6,8 @@
 
 <br>
 
+💻 **Sobre mí**
+
 Soy Jesús Quintero, apasionado por la tecnología y el desarrollo de software. Me gusta aprender cosas nuevas, explorar diferentes herramientas y convertir ideas en proyectos que puedan ser útiles para las personas.
 
 Actualmente, estoy fortaleciendo mis conocimientos en desarrollo web, trabajando con tecnologías como HTML, CSS y PHP. Me interesa tanto la parte visual de las aplicaciones como la lógica que hay detrás de ellas, buscando crear soluciones funcionales, intuitivas y bien estructuradas.
@@ -13,12 +15,6 @@ Actualmente, estoy fortaleciendo mis conocimientos en desarrollo web, trabajando
 Me considero una persona curiosa, perseverante y con ganas de mejorar constantemente. Disfruto enfrentar nuevos retos, investigar cómo funcionan las cosas y encontrar diferentes maneras de resolver problemas.
 
 Mi objetivo es seguir creciendo como desarrollador, adquirir experiencia mediante proyectos reales y construir soluciones tecnológicas que aporten valor y marquen una diferencia.
-
-💻 **Sobre mí**
-- Me gusta aprender cosas nuevas y explorar diferentes tecnologías.
-- Disfruto resolver problemas y buscar soluciones creativas.
-- Me interesa desarrollar aplicaciones y sitios web que sean útiles e innovadores.
-- Siempre estoy buscando oportunidades para mejorar mis habilidades y crecer como desarrollador.
 
 🎯 **Mi objetivo**
 
